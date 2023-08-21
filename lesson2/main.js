@@ -228,4 +228,4 @@ if(coursesAndDurationArray[0].monthDuration> 5) {
     console.log("Супер");
 }else if(coursesAndDurationArray[5].monthDuration> 5) {
     console.log("Супер");
-};
+}
